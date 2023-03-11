@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-hello world
-
-=======
-hi how are you!
->>>>>>> parent of 6d5c505 (change branch)
